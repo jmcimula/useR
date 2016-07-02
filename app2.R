@@ -44,7 +44,7 @@ both %>% ggvis(~delay)
 # Reactive computation parameters
 both %>%
   ggvis(~delay) %>%
-  layer_histograms(binwidth = input_slider(1, 10, value = 5))
+  layer_histograms(width = input_slider(1, 10, value = 5))
 
 # Reactive properties
 both %>%
@@ -72,7 +72,7 @@ ddat %>% ggvis(x = ~time, y = ~value, key := ~time) %>%
 
 # Histogram of delays for each flight
 flights %>% ggvis(~dep_delay) %>%
-  layer_histograms(binwidth = input_slider(1, 10)) %>%
+  layer_histograms(width = input_slider(1, 10)) %>%
   scale_numeric("x",
                 domain = input_slider(-100, 600, value = c(-100, 600)),
                 clamp = TRUE)
