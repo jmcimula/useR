@@ -7,7 +7,7 @@ library(formattable)
 ```
 
 
-```{r warning = FALSE, message = FALSE}
+```{r}
 #US Geographical data
 states <- data.frame(state = state.name, lat = state.center$y,lon = state.center$x)
 
