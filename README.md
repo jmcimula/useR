@@ -7,3 +7,5 @@ Running some R App
 [CRAN bug](https://www.r-project.org/bugs.html)
 
 [Big Data & Analytics](http://www.tutorialspoint.com/big_data_tutorials.htm)
+
+[Cloudyr](https://github.com/jmcimula/crowdflower)
