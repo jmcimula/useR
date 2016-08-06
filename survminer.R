@@ -22,3 +22,5 @@ ggsurvplot(fit,  size = 1,  # change line size
            ggtheme = theme_bw() # Change ggplot2 theme
            )
 		   
+
+		   
