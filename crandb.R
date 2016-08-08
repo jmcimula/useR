@@ -1,4 +1,4 @@
-library(crandb)#Database of CRAN R packages
+library(crandb)#Database of CRAN R packages  
 
 pack_list <- list_packages(format = "latest", limit = 9000)
 
