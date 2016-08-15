@@ -1,1 +1,4 @@
 [Something Strange in the Neighborhood](http://juliasilge.com/blog/Something-Strange/)
+
+[Connecting to a data set with IBM InfoSphere BigInsights Big R](https://www.ibm.com/support/knowledgecenter/SSPT3X_2.1.2/com.ibm.swg.im.infosphere.biginsights.analyze.doc/doc/t_connect_bigr.html)
+
