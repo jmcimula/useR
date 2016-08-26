@@ -4,3 +4,5 @@
 
 
 [Building an R Project](https://docs.travis-ci.com/user/languages/r)
+
+[Resources to learn and use R](http://www.ats.ucla.edu/stat/r/)
