@@ -14,3 +14,6 @@ Running some R App
 
 [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
 
+http://garrettgman.github.io/tidying/
+
+
